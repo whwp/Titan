@@ -20,4 +20,4 @@
 - Databases: MySQL
 
 ###### Comments:
-- in the file Titan/src/external/YelpAPI.java, replace with your own Yelp API KEY.
+- In the file Titan/src/external/YelpAPI.java, replace with your own Yelp API KEY.
