@@ -18,3 +18,6 @@
 - Backend: Java, Tomcat, REST
 - Frontend: HTML/CSS, Javascript, Bootstrap
 - Databases: MySQL
+
+###### Comments:
+- in the file Titan/src/external/YelpAPI.java, replace with your own Yelp API KEY.
