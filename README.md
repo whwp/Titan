@@ -1,7 +1,5 @@
 ## A Personalized Restaurant Recommendation Website Based On Yelp API
 
-###### http://54.183.95.198:8081/Titan
-
 ###### Functions:
 - search for the nearby restaurants based on the user's location.
 - save the favorite restaurants.
